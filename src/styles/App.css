@@ -1,0 +1,12 @@
+#titleText {
+  font-family: 'Lobster', cursive;
+  margin-bottom: 20px;
+  display: inline-block; }
+
+#switchButton {
+  margin: 25px 0px 0px 0px;
+  float: right;
+  cursor: pointer; }
+
+#switchButton:focus, #switchButton:hover {
+  background: #fff; }
