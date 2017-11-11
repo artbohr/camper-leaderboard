@@ -1,5 +1,8 @@
 # freeCodeCamp Camper Leaderboard
 
+## Live Demo
+https://artbohr.github.io/camper-leaderboard/
+
 ## Local Setup
 clone this repository and *run* these commands:
 
